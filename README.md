@@ -1,11 +1,12 @@
-**Analysis** 
-**#1** As expected, the closer you get to the equator, the higher the max daily temperature is in Fahrenheit.
+**Analysis of Weather Data** 
 
-**#2** There does not appear to be much correlation between latitude and cloudiness. 
+**Observation #1** As expected, the closer you get to the equator, the higher the max daily temperature is in Fahrenheit.
 
-**#3** It appears that in latitude vs. humidity, the closer you get to the equator the humidity is higher but there is not a strong correlation here either.
+** Observation #2** There does not appear to be much correlation between latitude and cloudiness. 
 
-**#4** There appears to be more variability in wind speed the further away you get from the equator, particularly in the northern hemisphere here.  This may be due to the northern hemisphere being in its winter state.
+**Observation #3** It appears that in latitude vs. humidity, the closer you get to the equator the humidity is higher but there is not a strong correlation here either.
+
+**Observation #4** There appears to be more variability in wind speed the further away you get from the equator, particularly in the northern hemisphere here.  This may be due to the northern hemisphere being in its winter state.
 
 ```python
 # Dependencies
