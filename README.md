@@ -2,7 +2,7 @@
 
 **Observation #1** As expected, the closer you get to the equator, the higher the max daily temperature is in Fahrenheit.
 
-** Observation #2** There does not appear to be much correlation between latitude and cloudiness. 
+**Observation #2** There does not appear to be much correlation between latitude and cloudiness. 
 
 **Observation #3** It appears that in latitude vs. humidity, the closer you get to the equator the humidity is higher but there is not a strong correlation here either.
 
